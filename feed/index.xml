@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Life is to go learn</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>About technology, nature and life’s learning experiences</description>
+	<lastBuildDate>Fri, 03 Feb 2023 00:54:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/02/cropped-0A4BD750-88D2-4CF4-B2F1-ADB832E7E40B-32x32.jpeg</url>
+	<title>Life is to go learn</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Just a thought &#8211; 1</title>
+		<link>/just-a-thought-1/</link>
+					<comments>/just-a-thought-1/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2022 00:38:15 +0000</pubDate>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[Life Thoughts]]></category>
+		<guid isPermaLink="false">/?p=382</guid>
+
+					<description><![CDATA[Normal days of life needs to be cherished the most. These normal days are our life’s actual, “true” story.]]></description>
+		
+					<wfw:commentRss>/just-a-thought-1/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Spring</title>
+		<link>/spring/</link>
+					<comments>/spring/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Mon, 21 Mar 2022 00:02:04 +0000</pubDate>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[Plain Simple Life]]></category>
+		<category><![CDATA[Spring]]></category>
+		<guid isPermaLink="false">/?p=359</guid>
+
+					<description><![CDATA[Kindergartener: Mom, what is different with spring (the season). I went into my thoughts thinking about my childhood… When I was growing up, spring meant colourful flowers around &#8211; bright yellow marigold, dahlia flowers, new leaves on mango tree and sprigs on guava tree. At this time of the year, our sweaters were packed already, <a class="read-more" href="/spring/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/spring/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My Learning Journey &#8211; Salesforce Data Architect Certification Exam</title>
+		<link>/my-learning-journey-salesforce-data-architect-certification-exam/</link>
+					<comments>/my-learning-journey-salesforce-data-architect-certification-exam/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Sun, 27 Feb 2022 19:08:51 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certification exams]]></category>
+		<category><![CDATA[Salesforce Application Architect]]></category>
+		<category><![CDATA[salesforce certification]]></category>
+		<category><![CDATA[Salesforce Data Architect]]></category>
+		<guid isPermaLink="false">/?p=325</guid>
+
+					<description><![CDATA[For common details on Salesforce certification exams, please visit here I passed the Salesforce Data Architect and Management Designer (Salesforce Data Architect) exam in November 2021. This is the 5th and final article in the series of certifications journey leading to achieving Application Architect credentials. I found this exam tougher, as it has many topics <a class="read-more" href="/my-learning-journey-salesforce-data-architect-certification-exam/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/my-learning-journey-salesforce-data-architect-certification-exam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My Learning Journey &#8211; Salesforce Sharing and Visibility Architect Certification Exam</title>
+		<link>/my-learning-journey-salesforce-sharing-and-visibility-architect-certification-exam/</link>
+					<comments>/my-learning-journey-salesforce-sharing-and-visibility-architect-certification-exam/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Sat, 19 Feb 2022 02:12:23 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certification exam]]></category>
+		<category><![CDATA[Salesforce Sharing and Visibility Architect]]></category>
+		<category><![CDATA[Salesforce Sharing and Visibility Designer]]></category>
+		<guid isPermaLink="false">/?p=313</guid>
+
+					<description><![CDATA[For common details on Salesforce certification exams, please visit here I passed the Salesforce Sharing and Visibility Designer (Salesforce Sharing and Visibility Architect) exam in January 2021. This is the 4th article in the series of certifications journey leading to achieving Application Architect credentials. I’m sharing my experience, with the thought that this might help <a class="read-more" href="/my-learning-journey-salesforce-sharing-and-visibility-architect-certification-exam/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/my-learning-journey-salesforce-sharing-and-visibility-architect-certification-exam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My learning Journey &#8211; Salesforce Platform App Builder Certification Exam</title>
+		<link>/salesforce-platform-app-builder/</link>
+					<comments>/salesforce-platform-app-builder/#comments</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Sun, 13 Feb 2022 04:00:44 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certification exam]]></category>
+		<category><![CDATA[Platform App Builder]]></category>
+		<category><![CDATA[salesforce certification]]></category>
+		<guid isPermaLink="false">/?p=300</guid>
+
+					<description><![CDATA[For common details on Salesforce certification exams, please visit&#160;here I cleared Salesforce platform app builder certification in July 2020. This is the 3rd article in the series of certifications journey leading to achieving Application Architect credentials. There are 3 super-badges recommended for Platform App Builder exam &#8211; completing all the three provides a great understanding <a class="read-more" href="/salesforce-platform-app-builder/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/salesforce-platform-app-builder/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My Learning Journey &#8211; Salesforce Platform Developer I Certification Exam</title>
+		<link>/salesforce-platform-developer-i-certification-exam/</link>
+					<comments>/salesforce-platform-developer-i-certification-exam/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2022 01:12:12 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certifications]]></category>
+		<category><![CDATA[Platform Developer I]]></category>
+		<category><![CDATA[Salesforce exams]]></category>
+		<guid isPermaLink="false">/?p=248</guid>
+
+					<description><![CDATA[For common details on Salesforce certification exams, please visit here I cleared Salesforce platform developer I exam in September 2019. This is the 2nd article in the series of certifications journey leading to achieving Application Architect credentials. I had this thought in my mind that I’ll surely share my experience, when I clear this exam. <a class="read-more" href="/salesforce-platform-developer-i-certification-exam/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/salesforce-platform-developer-i-certification-exam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>My Learning Journey to become Salesforce Certified Application Architect</title>
+		<link>/salesforce-certification-exams/</link>
+					<comments>/salesforce-certification-exams/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Fri, 04 Feb 2022 03:44:45 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certifications]]></category>
+		<guid isPermaLink="false">/?p=72</guid>
+
+					<description><![CDATA[This post is first in the series of my Salesforce certification exams learning experiences. Salesforce Technical Architect certifications pyramid consists of two Domain Architect routes &#8211; Application Architect and System Architect. In November 2021, I covered one side of the pyramid, by achieving Application Architect certification. I appeared for 4 exams (in order) &#8211; Salesforce <a class="read-more" href="/salesforce-certification-exams/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/salesforce-certification-exams/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Tue, 29 Jan 2019 18:34:25 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">//?p=1</guid>
+
+					<description><![CDATA[Welcome! This blog is about my learning experiences in technology and in life.]]></description>
+		
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

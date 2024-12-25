@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Platform Developer I &#8211; Life is to go learn</title>
+	<atom:link href="/tag/platform-developer-i/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>About technology, nature and life’s learning experiences</description>
+	<lastBuildDate>Sun, 27 Feb 2022 19:16:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2022/02/cropped-0A4BD750-88D2-4CF4-B2F1-ADB832E7E40B-32x32.jpeg</url>
+	<title>Platform Developer I &#8211; Life is to go learn</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>My Learning Journey &#8211; Salesforce Platform Developer I Certification Exam</title>
+		<link>/salesforce-platform-developer-i-certification-exam/</link>
+					<comments>/salesforce-platform-developer-i-certification-exam/#respond</comments>
+		
+		<dc:creator><![CDATA[LifeIs2GoLearn]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2022 01:12:12 +0000</pubDate>
+				<category><![CDATA[Salesforce]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Certifications]]></category>
+		<category><![CDATA[Platform Developer I]]></category>
+		<category><![CDATA[Salesforce exams]]></category>
+		<guid isPermaLink="false">/?p=248</guid>
+
+					<description><![CDATA[For common details on Salesforce certification exams, please visit here I cleared Salesforce platform developer I exam in September 2019. This is the 2nd article in the series of certifications journey leading to achieving Application Architect credentials. I had this thought in my mind that I’ll surely share my experience, when I clear this exam. <a class="read-more" href="/salesforce-platform-developer-i-certification-exam/">READ MORE</a>]]></description>
+		
+					<wfw:commentRss>/salesforce-platform-developer-i-certification-exam/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
